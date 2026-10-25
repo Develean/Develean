@@ -1,5 +1,3 @@
-<!-- Taruh file ini di repo bernama "Develean" (sama persis dengan username) sebagai README.md -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,24&section=header&text=Develean&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Building%20Clean%2C%20Fast%20%26%20Useful%20Apps&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
 <div align="center">
@@ -61,14 +59,7 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Develean&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" />
-</div>
-
-<br/>
-
-<!-- ───────────── TROPHIES ───────────── -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Develean&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" />
+  <img src="https://ghchart.rshah.org/58A6FF/Develean" alt="Develean's Contribution Graph" width="100%" />
 </div>
 
 <br/>
@@ -77,11 +68,15 @@
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
-  <!-- Ganti link di bawah dengan akun kamu sendiri -->
-  <a href="https://github.com/Develean"><img src="https://img.shields.io/badge/GitHub-Develean-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:faishalakmal857@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Develean" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Develean-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-akmal-faishal-46689237b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Akmal_Faishal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:faishalakmal857@gmail.com">
+    <img src="https://img.shields.io/badge/Email-faishalakmal857@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br/>
