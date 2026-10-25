@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./archer.gif" width="100%" style="max-width: 600px; border-radius: 6px;" alt="DEVELEAN - Animated ASCII Archer God" />
+  <img src="./hologram.gif" width="100%" style="max-width: 660px; border-radius: 8px;" alt="DEVELEAN - Celestial Archer God Hologram" />
 </div>
 
 <br/>
@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,tailwind,mysql,sqlite,js,ts,html,css,git,github,vscode&perline=7" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,tailwind,mysql,sqlite,js,ts,html,css,git,github,linux&perline=7" alt="Tech Stack" />
   </a>
 </div>
 
