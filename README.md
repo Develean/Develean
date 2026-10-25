@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./archer.gif" width="100%" style="max-width: 660px; border-radius: 6px;" alt="DEVELEAN - Animated ASCII Archer God" />
+  <img src="./archer.gif" width="100%" style="max-width: 600px; border-radius: 6px;" alt="DEVELEAN - Animated ASCII Archer God" />
 </div>
 
 <br/>
@@ -27,39 +27,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,tailwind,mysql,sqlite,js,ts,html,css,git,github,vscode&perline=7" alt="Tech Stack" />
   </a>
-</div>
-
-<br/>
-
-<!-- ───────────── FEATURED PROJECTS ───────────── -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/Develean/Sistem-Kasir" target="_blank">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Develean&repo=Sistem-Kasir&theme=tokyonight&hide_border=true&border_radius=12" alt="Sistem Kasir" />
-  </a>
-  <a href="https://github.com/Develean/presensi-digital" target="_blank">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Develean&repo=presensi-digital&theme=tokyonight&hide_border=true&border_radius=12" alt="Presensi Digital" />
-  </a>
-</div>
-
-<p align="center">
-  <b>🛒 Sistem-Kasir:</b> Sistem POS modern berbasis <code>Laravel</code>, <code>Nuxt.js</code>, <code>Tailwind CSS</code>, & <code>MySQL</code>.<br/>
-  <b>⏱️ Presensi-Digital:</b> Sistem absensi mandiri dan manajemen kehadiran digital berbasis <code>Laravel</code> & <code>MySQL</code>.
-</p>
-
-<br/>
-
-<!-- ───────────── STATS ───────────── -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Develean&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Develean&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&hide=Dockerfile,Shell" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Develean&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
 
 <br/>
