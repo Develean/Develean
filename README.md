@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hologram.gif" width="100%" style="max-width: 660px; border-radius: 8px;" alt="DEVELEAN - Celestial Archer God Hologram" />
+  <img src="./archer.gif" width="100%" style="max-width: 640px; border-radius: 6px;" alt="DEVELEAN - Animated ASCII Archer God" />
 </div>
 
 <br/>
