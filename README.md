@@ -21,7 +21,7 @@
 <br/>
 
 <!-- ───────────── TECH STACK ───────────── -->
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@
 <br/>
 
 <!-- ───────────── CONNECT ───────────── -->
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">Connect with Me</h2>
 
 <div align="center">
   <a href="https://github.com/Develean" target="_blank">
