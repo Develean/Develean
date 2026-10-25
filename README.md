@@ -1,18 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,24&section=header&text=Develean&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Building%20Clean%2C%20Fast%20%26%20Useful%20Apps&descSize=18&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,24&section=header&text=Develean&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Laravel%20%26%20Nuxt.js%20Ecosystem&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
 <div align="center">
 
 <a href="https://github.com/Develean">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Full-Stack+Web+Developer;Vue.js+%7C+Laravel+%7C+REST+API;Turning+ideas+into+real+products;Open+to+collaborate+%26+build+together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Full-Stack+Web+Developer;Specializing+in+Laravel+%26+Nuxt.js;Vue.js+%7C+Tailwind+CSS+%7C+MySQL;Turning+ideas+into+real-world+products;Open+to+collaborate+%26+build+together" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Web%20Development-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Laravel%20%26%20Nuxt.js-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Develean&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
 </div>
+
+<br/>
+
+<p align="center">
+  👋 Halo! Saya <b>Faishal Akmal (Develean)</b>, seorang <b>Full-Stack Web Developer</b> yang berfokus pada ekosistem <b>Laravel</b> & <b>Vue.js / Nuxt.js</b>.<br/>
+  Berpengalaman dalam merancang arsitektur REST API, database terstruktur, dan antarmuka web modern yang cepat dan responsif.
+</p>
 
 <br/>
 
@@ -21,7 +28,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,laravel,php,tailwind,nodejs,mysql,git,github,figma,vscode&perline=7" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,tailwind,mysql,sqlite,js,ts,html,css,git,github,vscode&perline=7" alt="Tech Stack" />
   </a>
 </div>
 
@@ -31,13 +38,18 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/Develean/Sistem-Kasir">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Develean&repo=Sistem-Kasir&theme=tokyonight&hide_border=true&border_radius=12" />
+  <a href="https://github.com/Develean/Sistem-Kasir" target="_blank">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Develean&repo=Sistem-Kasir&theme=tokyonight&hide_border=true&border_radius=12" alt="Sistem Kasir" />
   </a>
-  <a href="https://github.com/Develean/presensi-digital">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Develean&repo=presensi-digital&theme=tokyonight&hide_border=true&border_radius=12" />
+  <a href="https://github.com/Develean/presensi-digital" target="_blank">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Develean&repo=presensi-digital&theme=tokyonight&hide_border=true&border_radius=12" alt="Presensi Digital" />
   </a>
 </div>
+
+<p align="center">
+  <b>🛒 Sistem-Kasir:</b> Sistem POS modern berbasis <code>Laravel</code>, <code>Nuxt.js</code>, <code>Tailwind CSS</code>, & <code>MySQL</code>.<br/>
+  <b>⏱️ Presensi-Digital:</b> Sistem absensi mandiri dan manajemen kehadiran digital berbasis <code>Laravel</code> & <code>MySQL</code>.
+</p>
 
 <br/>
 
@@ -46,7 +58,7 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Develean&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Develean&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Develean&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&hide=Dockerfile,Shell" />
 </div>
 
 <div align="center">
