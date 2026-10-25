@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,24&section=header&text=Develean&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Laravel%20%26%20Nuxt.js%20Ecosystem&descSize=18&descAlignY=60" width="100%" alt="header"/>
+<div align="center">
+  <img src="./header.jpg" width="100%" alt="Develean - Celestial God Archer Hologram" style="border-radius: 14px;" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -13,13 +17,6 @@
 <img src="https://komarev.com/ghpvc/?username=Develean&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
 </div>
-
-<br/>
-
-<p align="center">
-  👋 Halo! Saya <b>Faishal Akmal (Develean)</b>, seorang <b>Full-Stack Web Developer</b> yang berfokus pada ekosistem <b>Laravel</b> & <b>Vue.js / Nuxt.js</b>.<br/>
-  Berpengalaman dalam merancang arsitektur REST API, database terstruktur, dan antarmuka web modern yang cepat dan responsif.
-</p>
 
 <br/>
 
@@ -63,15 +60,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Develean&theme=tokyonight&hide_border=true&border_radius=12" />
-</div>
-
-<br/>
-
-<!-- ───────────── ACTIVITY GRAPH ───────────── -->
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Develean" alt="Develean's Contribution Graph" width="100%" />
 </div>
 
 <br/>
